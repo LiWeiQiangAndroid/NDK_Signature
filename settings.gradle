@@ -1,0 +1,2 @@
+rootProject.name='NDK_Signature'
+include ':app'
